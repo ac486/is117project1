@@ -92,11 +92,29 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+   font-family: helvetica;
+}
+#wrapper{
+   width:960px;
+   margin-left: auto;
+   margin-right: auto;
 
+}
+#menubanner ul {
+   list-style-type: none;
+   font-size:14px;
+}
+#heading {
+   font-size:16px;
+}
+#heading span{
+   font-size:36px;
+}
 
-
-
-
+#subheading{
+   font-size:14px;
+   }
 
 
 
