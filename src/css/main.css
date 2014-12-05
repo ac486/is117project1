@@ -151,7 +151,18 @@ margin-left:auto;
    text-align: center;
    color: white;
    background-color:#485e90;
+   height:50px;
    }
+#welcome{
+width:449px;
+float:left;
+font-size: 14px;
+}
+#welcomelist{
+width:449px;
+float: right;
+font-size:14px;
+}
 
 
 
