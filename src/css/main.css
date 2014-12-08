@@ -109,7 +109,7 @@ body {
    float: left;
    }
 #menubanner {
-   background-color:#3f8252;
+   background-color:#3f8252;  
 }
 #menubanner ul {
    list-style-type: none;
@@ -164,9 +164,40 @@ float: right;
 font-size:14px;
 }
 
+#heating span{
+   color: #c0392b;
+   font-size:30px;
+   }
+#heating{
+   text-align: center;
+   font-size:14px;
+   }
+#pic1{
+float:left;
+}
+#pic2{
+float: left;
+}
+#pic3{
+float:right;
+}
 
+#cooling span{
+   color:#2980b9;
+   font-size:30px;
+   }
+#cooling{
+   text-align:center;
+   font-size:14px;
+   }
 
-
+#about span{
+   font-size:30px;
+   }
+#about{
+   font-size:14px;
+   text-align:center;
+   }
 
 
 
