@@ -96,13 +96,13 @@ body {
    font-family: helvetica;
 }
 #wrapper{
-   width:960px;
+   width:980px;
    margin-left: auto;
    margin-right: auto;
    
 }
 #content{
-   width:898px;
+   width:918px;
    padding-left:31px;
    padding-right:31px;
    text-align: justify;
@@ -154,12 +154,12 @@ margin-left:auto;
    height:50px;
    }
 #welcome{
-width:449px;
+width:459px;
 float:left;
 font-size: 14px;
 }
 #welcomelist{
-width:449px;
+width:459px;
 float: right;
 font-size:14px;
 }
