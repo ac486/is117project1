@@ -99,7 +99,7 @@ body {
    width:980px;
    margin-left: auto;
    margin-right: auto;
-   
+      
 }
 #content{
    width:918px;
@@ -174,12 +174,18 @@ font-size:14px;
    }
 #pic1{
 float:left;
+margin-left:84.5px;
+margin-right:22px;
 }
 #pic2{
 float: left;
+margin-left:22px;
+margin-right:22px;
 }
 #pic3{
-float:right;
+float:left;
+margin-left:22px;
+margin-right:84.5px;
 }
 
 #cooling span{
@@ -189,14 +195,31 @@ float:right;
 #cooling{
    text-align:center;
    font-size:14px;
-   }
+float: right;
+}
 
+#pic4{
+float:left;
+margin-left:84.5px;
+margin-right:22px;
+}
+#pic5{
+float: left;
+margin-left:22px;
+margin-right:22px;
+}
+#pic6{
+float:left;
+margin-left:22px;
+margin-right:84.5px;
+}
 #about span{
    font-size:30px;
    }
 #about{
    font-size:14px;
    text-align:center;
+   
    }
 
 
