@@ -113,7 +113,7 @@ body {
 }
 #menubanner ul {
    list-style-type: none;
-   font-size:14px;
+   font-size:16px;
    text-align: center;
    height:50px;
 }
@@ -126,17 +126,20 @@ body {
    }
 #heading {
    font-size:16px;
+   color:#8f8f8f;
    margin-left:auto;
    margin-right: auto;
    text-align: center;
 }
 #heading span{
    font-size:36px;
+   color:#5d5d5d;
 }
 
 #subheading{
-   font-size:14px;
+   font-size:16px;
    text-align:center;
+   color:#3f8252
    }
 
 #video{
@@ -149,16 +152,19 @@ margin-left:215px;
    color: white;
    background-color:#485e90;
    height:50px;
+   border-radius: 10px;
    }
 #welcome{
 width:459px;
 float:left;
 font-size: 14px;
+color:#2c2c2c;
 }
 #welcomelist{
 width:459px;
 float: right;
 font-size:14px;
+color:#2c2c2c;
 }
 
 #heating span{
@@ -168,6 +174,7 @@ font-size:14px;
 #heating{
    text-align: center;
    font-size:14px;
+   color:#2c2c2c;
    }
 #pic1{
 float:left;
@@ -192,6 +199,7 @@ margin-right:84.5px;
 #cooling{
    text-align:center;
    font-size:14px;
+   color:#2c2c2c;
 float: right;
 }
 
@@ -212,11 +220,12 @@ margin-right:84.5px;
 }
 #about span{
    font-size:30px;
+   color: #2c2c2c;
    }
 #about{
    font-size:14px;
    text-align:center;
-   
+   color:#2c2c2c;
    }
 
 
